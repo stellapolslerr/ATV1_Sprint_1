@@ -1,2 +1,2 @@
-def divisao(n1,n2)
+def dividef(n1,n2)
     return n1 / n2
